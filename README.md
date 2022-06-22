@@ -17,11 +17,11 @@
   
   Add .env file
 
-    ```
+```
     DB_NAME='dashboard_db'
     DB_USER='root'
     DB_PW='XXX'
-    ```
+```
 
   ## Application Link
 
